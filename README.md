@@ -33,3 +33,4 @@ git push heroku master
 - [Johns Hopkins CSSE COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19)
 - [3Blue1Brown - Exponential growth and epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg)
 - [Gilbert Tanner - Deploying your Streamlit dashboard with Heroku](https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku)
+- [Preprocessing data with TensorFlow Transform](https://github.com/tensorflow/tfx/blob/master/docs/tutorials/transform/census.ipynb)
