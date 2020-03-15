@@ -34,3 +34,6 @@ git push heroku master
 - [3Blue1Brown - Exponential growth and epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg)
 - [Gilbert Tanner - Deploying your Streamlit dashboard with Heroku](https://gilberttanner.com/blog/deploying-your-streamlit-dashboard-with-heroku)
 - [Preprocessing data with TensorFlow Transform](https://github.com/tensorflow/tfx/blob/master/docs/tutorials/transform/census.ipynb)
+
+- https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+- https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack
